@@ -1,7 +1,0 @@
-[submodule "CrowdFunding-main/CrowdFunding-main/client"]
-    path = CrowdFunding-main/CrowdFunding-main/client
-    url = https://github.com/shubhamiiitdwd/Crowdfunding.git
-
-[submodule "CrowdFunding-main/CrowdFunding-main/web3"]
-    path = CrowdFunding-main/CrowdFunding-main/web3
-    url = https://github.com/shubhamiiitdwd/Crowdfunding.git
